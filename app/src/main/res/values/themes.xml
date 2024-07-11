@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.MyFirstSmartTV" parent="@style/Theme.Leanback" />
+</resources>
